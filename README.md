@@ -1,2 +1,2 @@
-this is a java emulator
+draw a circle id 12 divisions
 
